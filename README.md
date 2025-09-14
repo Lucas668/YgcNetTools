@@ -1,5 +1,5 @@
 # YgcNetTools
-  YgcNetTools - Professional Network Diagnostic Suite with Web testing,  This application integrates 7 core functional modules, TCP/UDP probes, Ping monitoring, IP scanning &amp; Port scanning.IPv4/IPv6 support, real-time charts. enabling simultaneous network testing of multiple targets and significantly enhancing work efficiency. 
+A MacOS Aapp - YgcNetTools, Professional Network Diagnostic and Testing Suite. This application integrates 7 core functional modules, TCP/UDP probes, Ping monitoring, IP scanning &amp; Port scanning.IPv4/IPv6 support, real-time charts. enabling simultaneous network testing of multiple targets and significantly enhancing work efficiency. 
 
 ## Donwload in Mac App Store
 https://apps.apple.com/us/app/ygcnettools/id6748181575
