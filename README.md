@@ -4,7 +4,7 @@
 ## Donwload in Mac App Store
 https://apps.apple.com/us/app/ygcnettools/id6748181575
 
-## Functions:
+## Functions and Preview picture:
 
 1. Web latency and packet loss test
 2. TCP latency and packet loss test
